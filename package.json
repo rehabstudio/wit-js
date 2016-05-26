@@ -1,0 +1,24 @@
+{
+  "name": "wit-js",
+  "version": "0.0.1",
+  "description": "A modern Node wrapper for the Wit.ai API using Promises and Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehabstudio/wit-js.git"
+  },
+  "keywords": [
+    "wit",
+    "witai",
+    "bots"
+  ],
+  "author": "Ryan Grieve <ryan@rehabstudio.com> (http://rehabstudio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rehabstudio/wit-js/issues"
+  },
+  "homepage": "https://github.com/rehabstudio/wit-js#readme"
+}
