@@ -23,7 +23,7 @@
   "homepage": "https://github.com/rehabstudio/wit-js#readme",
   "dependencies": {
     "node-fetch": "^1.5.3",
-    "promise-events": "^0.1.3",
+    "promise-events": "^0.2.4",
     "qs": "^6.2.0"
   }
 }
